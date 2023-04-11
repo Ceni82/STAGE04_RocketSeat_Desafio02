@@ -14,7 +14,7 @@ Stage 04 - Introdução à programação, lógica e algoritmos em Javascript
 
 ## LINK DO PROJETO
 
-https://github.com/Ceni82/STAGE-03-Jardim-das-Toupeiras/tree/main/Jardim%20das%20toupeiras%20(anima%C3%A7%C3%B5es%20com%20keyframes)
+
 
 
 
